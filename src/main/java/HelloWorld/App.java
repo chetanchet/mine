@@ -15,6 +15,7 @@ public class App
     {
         String s="";
         String aUrl = "www.helloworld.com";
+        String aUrlDeclared = "www.helloworld.com";
     }
     
     public static void main( String[] args )
