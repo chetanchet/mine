@@ -14,6 +14,7 @@ public class App
     public void m1()
     {
         String s="";
+        String aUrl = "www.helloworld.com";
     }
     
     public static void main( String[] args )
